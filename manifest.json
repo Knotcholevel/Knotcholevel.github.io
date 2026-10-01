@@ -1,0 +1,26 @@
+{
+  "name": "Рабочие прокси для Телеграма (76) — Телеграм Каталог, 15:33 МСК",
+  "short_name": "Телеграм Каталог",
+  "description": "Список из 76 рабочих MTProto-прокси для Telegram на Телеграм Каталог: наши серверы и проверенные публичные, пинг, мгновенное подключение.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f4fb",
+  "theme_color": "#54259d",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
